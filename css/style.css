@@ -2,8 +2,7 @@
 
 body {
     font-family: 'Radley', serif;
-    background-color: #fff;
-    color: #4A2C2C;
+    background-color: #f5f5f0;
     margin: 0;
     padding: 0;
     line-height: 1.6;
@@ -12,21 +11,23 @@ body {
 header {
     text-align: center;
     padding: 20px;
+    color: #9b4819;
 }
 
 h1 {
-    font-size: 2.2em;
+    font-size: 2.0em;
     padding-top: 0.5em;
     font-weight: normal; 
 }
 
 header p {
-    font-size: 1.2em; 
+    font-size: 1em; 
     padding: 50px; 
 }
 
 main {
-    background-color: #e6e6e6; 
+    background-color: #895a36; 
+    color: #f5f5f0;
     text-align: center;
     height: 25em;
 }
@@ -50,11 +51,10 @@ h2 {
 
 a {
     text-decoration: none;
-    color: #4A2C2C;
+    color: #f5f5f0;
 }
 
 .insta {
-    background-color: #fff; 
     height: 5em;
 }
 
