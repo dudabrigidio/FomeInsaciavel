@@ -48,6 +48,11 @@ h2 {
     line-height: 1.4;
 }
 
+a {
+    text-decoration: none;
+    color: #4A2C2C;
+}
+
 .insta {
     background-color: #fff; 
     height: 5em;
