@@ -55,13 +55,20 @@ a {
 }
 
 .insta {
+    color: #9b4819;
     height: 5em;
+    max-width: 150px; 
+    margin: 20px auto; 
+    margin-top: 50px;
+    display: flex; 
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
 }
 
 img {
     max-width: 150px; 
     height: 2em; 
-    margin: 20px auto; 
-    margin-top: 50px;
-    display: block; 
+    margin: 0;
+    position: relative;
 }
